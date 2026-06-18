@@ -1,2 +1,2 @@
-# Sulaiman
+# sulaiman
 This app is to manage friends information Management 
